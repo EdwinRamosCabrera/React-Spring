@@ -4,7 +4,10 @@ const invoice = {
 	nombre: 'Compras de oficina',
 	date: new Date(),
 	client: [
-		{ name: 'Jhon Doe', age: 25, amount: 250 },
+		{ 
+			name: 'Jhon Doe', 
+		  	age: 25, 
+		  	amount: 250 },
 		{
 			name: 'Edy Cord',
 			age: 20,
