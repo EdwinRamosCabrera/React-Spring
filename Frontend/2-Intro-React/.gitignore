@@ -23,6 +23,10 @@ dist-ssr
 *.sln
 *.sw?
 
+# Node
+# Created by https://www.toptal.com/developers/gitignore/api/node
+# Edit at https://www.toptal.com/developers/gitignore?templates=node
+
 ### Node ###
 # Logs
 logs
